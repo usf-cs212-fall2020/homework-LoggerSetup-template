@@ -1,0 +1,10 @@
+[001 trace] LoggerSetup.outputMessages main: tucan 
+[002 debug] LoggerSetup.outputMessages main: duck 
+[003 info] LoggerSetup.outputMessages main: ibis 
+[004 warn] LoggerSetup.outputMessages main: wren 
+[005 error] LoggerSetup.outputMessages main: egret java.lang.Exception: eagle
+	at LoggerSetup.outputMessages(LoggerSetup.java:24)
+	at LoggerSetup.main(LoggerSetup.java:34)
+[006 fatal] LoggerSetup.outputMessages main: Catching java.lang.RuntimeException: finch
+	at LoggerSetup.outputMessages(LoggerSetup.java:25)
+	at LoggerSetup.main(LoggerSetup.java:34)
